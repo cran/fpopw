@@ -218,9 +218,9 @@ double *cout_n, double *allCost)
 	    delete(stock[i]);	
 		i++;
 	}
-	delete(stock);  
-	delete(minCostBefore);
-	delete(minCostCurrent);
+	delete [] stock;  
+	delete [] minCostBefore;
+	delete [] minCostCurrent;
 	//delete(origine);
 	//std::cout << std::endl;
 
@@ -347,9 +347,9 @@ double *cout_n, double *allCost)
 	    delete(stock[i]);	
 		i++;
 	}
-	delete(stock);  
-	delete(minCostBefore);
-	delete(minCostCurrent);
+	delete [] stock;  
+	delete [] minCostBefore;
+	delete [] minCostCurrent;
 	//delete(origine);
 	//std::cout << std::endl;
 
@@ -476,9 +476,9 @@ void colibri_sn_weight_nomemory_c (const double *profil, double *weights, const 
 	    delete(stock[i]);	
 		i++;
 	}
-	delete(stock);  
-	delete(minCostBefore);
-	delete(minCostCurrent);
+	delete [] stock;  
+	delete [] minCostBefore;
+	delete [] minCostCurrent;
 	//delete(origine);
 	//std::cout << std::endl;
 

@@ -1,4 +1,4 @@
-fb028bc541e35438962a614fb4eeaad3 *DESCRIPTION
+8009c7b389d8fc6d09325ea154edd765 *DESCRIPTION
 57c3595f0af639908d287f9f7ae8a556 *NAMESPACE
 78d8cbcc4962c0e876691e4359b032d7 *R/compression.R
 a27d54eacbb9626cfe5a61ff8cb3e9ed *R/fpaccess.R
@@ -28,7 +28,7 @@ d373df934051a7e69f6babd992924090 *src/Heap.h
 561638a63ab8e3ce9a530f4d5472029e *src/Node.cpp
 7ebb03002dcc6e8c27be26a1dcaf71ef *src/Node.h
 fd08d22306c5406cebe500acc21f7863 *src/Rwrappers.cc
-3d0852ce2a57dc070092ee046026e5c4 *src/colibri.cc
+edfa338f30dafd9cf2c621ca44fb63a1 *src/colibri.cc
 a66f1a1d4834cbfaa614fdc3545f6315 *src/colibri.h
 159694b498ae2a2ec078e5b962f0d45e *src/init.c
 eae756e154a9ea0c5f44e6ebc07c5b36 *src/liste.cc
